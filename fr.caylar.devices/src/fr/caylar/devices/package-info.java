@@ -1,6 +1,5 @@
 /**
- * You shouln't use this package, but it's sub packages.
- * <p>
+ * You shouln't use this package, but it's sub packages.<br>
  * This package and it's sub contains the classes to communicate easily with a Caylar device.
  * <p>
  * You shouldn't have dependency to this package but to the API package instead : {@link fr.caylar.devices.api}<br>
